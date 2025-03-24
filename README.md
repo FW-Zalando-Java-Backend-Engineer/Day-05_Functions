@@ -164,7 +164,7 @@ public class Printer {
 - **[Java Reference vs Value Types - Class White board]**(https://zoom.us/wb/doc/ZC0y-7G5RSyGWsTJk9f-MQ)
 - [Video Lesson Recording](https://us06web.zoom.us/rec/share/FKv4lajF09UvxjcjQLP1Hu7b1D-KWERfgAn_3xaCqhl4cEyawYTqKSBV9eLDl1gz.sNxCrIOLcLA7j0_a)  
 - [Lesson Slides: Methods in Java](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-05_Functions/blob/main/Methods%20in%20Java-%20Defining%20and%20Using%20Methods.pdf)
-
+- [Lesson Live Coding](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-05_Functions/tree/main/Day_5)
 ---
 
 🚀 **Great work today! You’ve taken a big step toward writing clean, reusable Java code. Get ready for Day-06!** 🎉
