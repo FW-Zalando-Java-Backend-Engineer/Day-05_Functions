@@ -161,7 +161,7 @@ public class Printer {
 - **[Java Methods (Oracle Docs)](https://docs.oracle.com/javase/tutorial/java/javaOO/methods.html)**
 - **[Method Overloading (GeeksForGeeks)](https://www.geeksforgeeks.org/method-overloading-in-java/)**
 - **[Java Reference vs Value Types](https://www.baeldung.com/java-value-vs-reference)**
-- [Video Lesson Recording](_will be added later_)  
+- [Video Lesson Recording](https://us06web.zoom.us/rec/share/FKv4lajF09UvxjcjQLP1Hu7b1D-KWERfgAn_3xaCqhl4cEyawYTqKSBV9eLDl1gz.sNxCrIOLcLA7j0_a)  
 - [Lesson Slides: Methods in Java](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-05_Functions/blob/main/Methods%20in%20Java-%20Defining%20and%20Using%20Methods.pdf)
 
 ---
